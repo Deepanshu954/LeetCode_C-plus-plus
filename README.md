@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0537-complex-number-multiplication](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0537-complex-number-multiplication) |
 | [0539-minimum-time-difference](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0539-minimum-time-difference) |
 | [0541-reverse-string-ii](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0541-reverse-string-ii) |
+| [0551-student-attendance-record-i](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0551-student-attendance-record-i) |
 | [0855-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0855-count-unique-characters-of-all-substrings-of-a-given-string) |
 | [0857-positions-of-large-groups](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0857-positions-of-large-groups) |
 | [0858-masking-personal-information](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0858-masking-personal-information) |
