@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0566-reshape-the-matrix](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0566-reshape-the-matrix) |
 | [0575-distribute-candies](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0575-distribute-candies) |
 | [0587-erect-the-fence](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0587-erect-the-fence) |
+| [0594-longest-harmonious-subsequence](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0594-longest-harmonious-subsequence) |
 | [0792-binary-search](https://github.com/Deepanshu954/LeetCode/tree/master/0792-binary-search) |
 | [0854-making-a-large-island](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0854-making-a-large-island) |
 | [0861-flipping-an-image](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0861-flipping-an-image) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Deepanshu954/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0567-permutation-in-string) |
 | [0575-distribute-candies](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0575-distribute-candies) |
+| [0594-longest-harmonious-subsequence](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0594-longest-harmonious-subsequence) |
 | [0855-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0855-count-unique-characters-of-all-substrings-of-a-given-string) |
 | [0869-similar-string-groups](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0869-similar-string-groups) |
 | [0870-magic-squares-in-grid](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0870-magic-squares-in-grid) |
@@ -245,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0532-k-diff-pairs-in-an-array](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0539-minimum-time-difference](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0539-minimum-time-difference) |
 | [0561-array-partition](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0561-array-partition) |
+| [0594-longest-harmonious-subsequence](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0594-longest-harmonious-subsequence) |
 | [0876-hand-of-straights](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0876-hand-of-straights) |
 ## Divide and Conquer
 |  |
@@ -256,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Deepanshu954/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Deepanshu954/LeetCode/tree/master/0229-majority-element-ii) |
+| [0594-longest-harmonious-subsequence](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0594-longest-harmonious-subsequence) |
 | [0936-rle-iterator](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0936-rle-iterator) |
 ## Simulation
 |  |
@@ -300,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Deepanshu954/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0567-permutation-in-string](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0567-permutation-in-string) |
+| [0594-longest-harmonious-subsequence](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0594-longest-harmonious-subsequence) |
 | [0867-new-21-game](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0867-new-21-game) |
 | [0940-fruit-into-baskets](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0940-fruit-into-baskets) |
 ## Linked List
