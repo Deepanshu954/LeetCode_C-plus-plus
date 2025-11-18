@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0552-student-attendance-record-ii](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0552-student-attendance-record-ii) |
 | [0553-optimal-division](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0553-optimal-division) |
 | [0576-out-of-boundary-paths](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0576-out-of-boundary-paths) |
+| [0583-delete-operation-for-two-strings](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0583-delete-operation-for-two-strings) |
 | [0855-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0855-count-unique-characters-of-all-substrings-of-a-given-string) |
 | [0863-sum-of-distances-in-tree](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0863-sum-of-distances-in-tree) |
 | [0867-new-21-game](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0867-new-21-game) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0564-find-the-closest-palindrome](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0564-find-the-closest-palindrome) |
 | [0567-permutation-in-string](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0567-permutation-in-string) |
+| [0583-delete-operation-for-two-strings](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0583-delete-operation-for-two-strings) |
 | [0855-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0855-count-unique-characters-of-all-substrings-of-a-given-string) |
 | [0857-positions-of-large-groups](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0857-positions-of-large-groups) |
 | [0858-masking-personal-information](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0858-masking-personal-information) |
