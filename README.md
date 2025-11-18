@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Deepanshu954/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Deepanshu954/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0514-freedom-trail](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0514-freedom-trail) |
+| [0516-longest-palindromic-subsequence](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0516-longest-palindromic-subsequence) |
 | [0855-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0855-count-unique-characters-of-all-substrings-of-a-given-string) |
 | [0863-sum-of-distances-in-tree](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0863-sum-of-distances-in-tree) |
 | [0867-new-21-game](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0867-new-21-game) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Deepanshu954/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0125-valid-palindrome](https://github.com/Deepanshu954/LeetCode/tree/master/0125-valid-palindrome) |
 | [0514-freedom-trail](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0514-freedom-trail) |
+| [0516-longest-palindromic-subsequence](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0516-longest-palindromic-subsequence) |
 | [0855-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0855-count-unique-characters-of-all-substrings-of-a-given-string) |
 | [0857-positions-of-large-groups](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0857-positions-of-large-groups) |
 | [0858-masking-personal-information](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0858-masking-personal-information) |
