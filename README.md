@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Deepanshu954/LeetCode/tree/master/0189-rotate-array) |
 | [0229-majority-element-ii](https://github.com/Deepanshu954/LeetCode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Deepanshu954/LeetCode/tree/master/0268-missing-number) |
+| [0403-frog-jump](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0403-frog-jump) |
 | [0485-max-consecutive-ones](https://github.com/Deepanshu954/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0517-super-washing-machines](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0517-super-washing-machines) |
 | [0518-coin-change-ii](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0518-coin-change-ii) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Deepanshu954/LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Deepanshu954/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Deepanshu954/LeetCode/tree/master/0152-maximum-product-subarray) |
+| [0403-frog-jump](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0403-frog-jump) |
 | [0514-freedom-trail](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0514-freedom-trail) |
 | [0516-longest-palindromic-subsequence](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0518-coin-change-ii) |
