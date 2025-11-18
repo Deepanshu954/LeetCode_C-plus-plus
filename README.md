@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0864-image-overlap](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0864-image-overlap) |
 | [0869-similar-string-groups](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0869-similar-string-groups) |
 | [0870-magic-squares-in-grid](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0870-magic-squares-in-grid) |
+| [0875-longest-mountain-in-array](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0875-longest-mountain-in-array) |
 | [0907-koko-eating-bananas](https://github.com/Deepanshu954/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Deepanshu954/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Deepanshu954/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0863-sum-of-distances-in-tree](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0863-sum-of-distances-in-tree) |
 | [0867-new-21-game](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0867-new-21-game) |
 | [0868-push-dominoes](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0868-push-dominoes) |
+| [0875-longest-mountain-in-array](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0875-longest-mountain-in-array) |
 | [1013-fibonacci-number](https://github.com/Deepanshu954/LeetCode/tree/master/1013-fibonacci-number) |
 ## Math
 |  |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0861-flipping-an-image](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0861-flipping-an-image) |
 | [0868-push-dominoes](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0868-push-dominoes) |
 | [0874-backspace-string-compare](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0874-backspace-string-compare) |
+| [0875-longest-mountain-in-array](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0875-longest-mountain-in-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Deepanshu954/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## String
 |  |
@@ -228,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0856-consecutive-numbers-sum](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0856-consecutive-numbers-sum) |
+| [0875-longest-mountain-in-array](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0875-longest-mountain-in-array) |
 ## Tree
 |  |
 | ------- |
