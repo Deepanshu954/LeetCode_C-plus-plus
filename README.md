@@ -216,10 +216,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0085-maximal-rectangle](https://github.com/Deepanshu954/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0874-backspace-string-compare](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0874-backspace-string-compare) |
+| [0937-online-stock-span](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0937-online-stock-span) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/Deepanshu954/LeetCode/tree/master/0085-maximal-rectangle) |
+| [0937-online-stock-span](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0937-online-stock-span) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -274,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0885-exam-room](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0885-exam-room) |
 | [0936-rle-iterator](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0936-rle-iterator) |
+| [0937-online-stock-span](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0937-online-stock-span) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -286,4 +289,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0936-rle-iterator](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0936-rle-iterator) |
+## Data Stream
+|  |
+| ------- |
+| [0937-online-stock-span](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0937-online-stock-span) |
 <!---LeetCode Topics End-->
