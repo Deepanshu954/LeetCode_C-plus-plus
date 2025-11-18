@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0561-array-partition) |
 | [0565-array-nesting](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0565-array-nesting) |
 | [0566-reshape-the-matrix](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0566-reshape-the-matrix) |
+| [0575-distribute-candies](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0575-distribute-candies) |
 | [0792-binary-search](https://github.com/Deepanshu954/LeetCode/tree/master/0792-binary-search) |
 | [0854-making-a-large-island](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0854-making-a-large-island) |
 | [0861-flipping-an-image](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0861-flipping-an-image) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0554-brick-wall](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0554-brick-wall) |
 | [0560-subarray-sum-equals-k](https://github.com/Deepanshu954/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0567-permutation-in-string) |
+| [0575-distribute-candies](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0575-distribute-candies) |
 | [0855-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0855-count-unique-characters-of-all-substrings-of-a-given-string) |
 | [0869-similar-string-groups](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0869-similar-string-groups) |
 | [0870-magic-squares-in-grid](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0870-magic-squares-in-grid) |
