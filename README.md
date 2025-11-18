@@ -454,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0577-employee-bonus](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0577-employee-bonus) |
 | [0584-find-customer-referee](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0584-find-customer-referee) |
+| [0585-investments-in-2016](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0585-investments-in-2016) |
 ## String Matching
 |  |
 | ------- |
