@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0870-magic-squares-in-grid](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0870-magic-squares-in-grid) |
 | [0875-longest-mountain-in-array](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0875-longest-mountain-in-array) |
 | [0876-hand-of-straights](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0876-hand-of-straights) |
+| [0881-loud-and-rich](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0881-loud-and-rich) |
 | [0907-koko-eating-bananas](https://github.com/Deepanshu954/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Deepanshu954/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Deepanshu954/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0863-sum-of-distances-in-tree](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0863-sum-of-distances-in-tree) |
 | [0869-similar-string-groups](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0869-similar-string-groups) |
 | [0871-keys-and-rooms](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0871-keys-and-rooms) |
+| [0881-loud-and-rich](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0881-loud-and-rich) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -244,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0863-sum-of-distances-in-tree](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0863-sum-of-distances-in-tree) |
 | [0871-keys-and-rooms](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0871-keys-and-rooms) |
+| [0881-loud-and-rich](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0881-loud-and-rich) |
 ## Geometry
 |  |
 | ------- |
@@ -260,4 +263,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0876-hand-of-straights](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0876-hand-of-straights) |
+## Topological Sort
+|  |
+| ------- |
+| [0881-loud-and-rich](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0881-loud-and-rich) |
 <!---LeetCode Topics End-->
