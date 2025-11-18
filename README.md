@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-hand-of-straights](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0876-hand-of-straights) |
 | [0881-loud-and-rich](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0881-loud-and-rich) |
 | [0907-koko-eating-bananas](https://github.com/Deepanshu954/LeetCode/tree/master/0907-koko-eating-bananas) |
+| [0912-random-pick-with-weight](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0912-random-pick-with-weight) |
 | [0936-rle-iterator](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0936-rle-iterator) |
 | [0940-fruit-into-baskets](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0940-fruit-into-baskets) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Deepanshu954/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0866-rectangle-overlap](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0866-rectangle-overlap) |
 | [0867-new-21-game](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0867-new-21-game) |
 | [0870-magic-squares-in-grid](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0870-magic-squares-in-grid) |
+| [0912-random-pick-with-weight](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0912-random-pick-with-weight) |
 | [0913-random-flip-matrix](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0913-random-flip-matrix) |
 | [1013-fibonacci-number](https://github.com/Deepanshu954/LeetCode/tree/master/1013-fibonacci-number) |
 ## Two Pointers
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/Deepanshu954/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/Deepanshu954/LeetCode/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/Deepanshu954/LeetCode/tree/master/0907-koko-eating-bananas) |
+| [0912-random-pick-with-weight](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0912-random-pick-with-weight) |
 ## Sorting
 |  |
 | ------- |
@@ -234,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Deepanshu954/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0912-random-pick-with-weight](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0912-random-pick-with-weight) |
 ## Sliding Window
 |  |
 | ------- |
@@ -348,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Randomized
 |  |
 | ------- |
+| [0912-random-pick-with-weight](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0912-random-pick-with-weight) |
 | [0913-random-flip-matrix](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0913-random-flip-matrix) |
 ## Bitmask
 |  |
