@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0522-longest-uncommon-subsequence-ii](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0541-reverse-string-ii](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0541-reverse-string-ii) |
 | [0861-flipping-an-image](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0861-flipping-an-image) |
 | [0868-push-dominoes](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0868-push-dominoes) |
 | [0874-backspace-string-compare](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0874-backspace-string-compare) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0535-encode-and-decode-tinyurl](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0535-encode-and-decode-tinyurl) |
 | [0537-complex-number-multiplication](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0537-complex-number-multiplication) |
 | [0539-minimum-time-difference](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0539-minimum-time-difference) |
+| [0541-reverse-string-ii](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0541-reverse-string-ii) |
 | [0855-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0855-count-unique-characters-of-all-substrings-of-a-given-string) |
 | [0857-positions-of-large-groups](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0857-positions-of-large-groups) |
 | [0858-masking-personal-information](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0858-masking-personal-information) |
