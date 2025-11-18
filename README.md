@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0594-longest-harmonious-subsequence) |
 | [0598-range-addition-ii](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0598-range-addition-ii) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0772-construct-quad-tree](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0772-construct-quad-tree) |
 | [0792-binary-search](https://github.com/Deepanshu954/LeetCode/tree/master/0792-binary-search) |
 | [0854-making-a-large-island](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0854-making-a-large-island) |
 | [0861-flipping-an-image](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0861-flipping-an-image) |
@@ -299,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/Deepanshu954/LeetCode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Deepanshu954/LeetCode/tree/master/0169-majority-element) |
+| [0772-construct-quad-tree](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0772-construct-quad-tree) |
 ## Counting
 |  |
 | ------- |
@@ -338,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0529-minesweeper](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0529-minesweeper) |
 | [0542-01-matrix](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0542-01-matrix) |
 | [0566-reshape-the-matrix](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0566-reshape-the-matrix) |
+| [0772-construct-quad-tree](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0772-construct-quad-tree) |
 | [0854-making-a-large-island](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0854-making-a-large-island) |
 | [0861-flipping-an-image](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0861-flipping-an-image) |
 | [0864-image-overlap](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0864-image-overlap) |
@@ -436,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0543-diameter-of-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0563-binary-tree-tilt) |
 | [0572-subtree-of-another-tree](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0572-subtree-of-another-tree) |
+| [0772-construct-quad-tree](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0772-construct-quad-tree) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0863-sum-of-distances-in-tree](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0863-sum-of-distances-in-tree) |
