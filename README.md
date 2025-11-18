@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0564-find-the-closest-palindrome](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0564-find-the-closest-palindrome) |
 | [0567-permutation-in-string](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0567-permutation-in-string) |
 | [0583-delete-operation-for-two-strings](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0583-delete-operation-for-two-strings) |
+| [0591-tag-validator](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0591-tag-validator) |
 | [0855-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0855-count-unique-characters-of-all-substrings-of-a-given-string) |
 | [0857-positions-of-large-groups](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0857-positions-of-large-groups) |
 | [0858-masking-personal-information](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0858-masking-personal-information) |
@@ -305,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/Deepanshu954/LeetCode/tree/master/0085-maximal-rectangle) |
+| [0591-tag-validator](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0591-tag-validator) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0874-backspace-string-compare](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0874-backspace-string-compare) |
