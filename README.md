@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0417-pacific-atlantic-water-flow) |
 | [0419-battleships-in-a-board](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0419-battleships-in-a-board) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [0435-non-overlapping-intervals](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0435-non-overlapping-intervals) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0485-max-consecutive-ones](https://github.com/Deepanshu954/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0517-super-washing-machines](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0517-super-washing-machines) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0410-split-array-largest-sum) |
 | [0413-arithmetic-slices](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0413-arithmetic-slices) |
 | [0416-partition-equal-subset-sum](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0416-partition-equal-subset-sum) |
+| [0435-non-overlapping-intervals](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0435-non-overlapping-intervals) |
 | [0514-freedom-trail](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0514-freedom-trail) |
 | [0516-longest-palindromic-subsequence](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0518-coin-change-ii) |
@@ -292,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Deepanshu954/LeetCode/tree/master/0268-missing-number) |
 | [0406-queue-reconstruction-by-height](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0406-queue-reconstruction-by-height) |
 | [0414-third-maximum-number](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0414-third-maximum-number) |
+| [0435-non-overlapping-intervals](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0435-non-overlapping-intervals) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0532-k-diff-pairs-in-an-array) |
@@ -481,6 +484,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0409-longest-palindrome) |
 | [0410-split-array-largest-sum](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0410-split-array-largest-sum) |
 | [0420-strong-password-checker](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0420-strong-password-checker) |
+| [0435-non-overlapping-intervals](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0435-non-overlapping-intervals) |
 | [0517-super-washing-machines](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0517-super-washing-machines) |
 | [0561-array-partition](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0561-array-partition) |
 | [0876-hand-of-straights](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0876-hand-of-straights) |
