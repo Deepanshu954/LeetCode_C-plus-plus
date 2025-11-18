@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0869-similar-string-groups](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0869-similar-string-groups) |
 | [0870-magic-squares-in-grid](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0870-magic-squares-in-grid) |
 | [0875-longest-mountain-in-array](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0875-longest-mountain-in-array) |
+| [0876-hand-of-straights](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0876-hand-of-straights) |
 | [0907-koko-eating-bananas](https://github.com/Deepanshu954/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Deepanshu954/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Deepanshu954/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0855-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0855-count-unique-characters-of-all-substrings-of-a-given-string) |
 | [0869-similar-string-groups](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0869-similar-string-groups) |
 | [0870-magic-squares-in-grid](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0870-magic-squares-in-grid) |
+| [0876-hand-of-straights](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0876-hand-of-straights) |
 ## Binary Search
 |  |
 | ------- |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Deepanshu954/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Deepanshu954/LeetCode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Deepanshu954/LeetCode/tree/master/0268-missing-number) |
+| [0876-hand-of-straights](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0876-hand-of-straights) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -253,4 +256,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0872-split-array-into-fibonacci-sequence](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0872-split-array-into-fibonacci-sequence) |
+## Greedy
+|  |
+| ------- |
+| [0876-hand-of-straights](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0876-hand-of-straights) |
 <!---LeetCode Topics End-->
