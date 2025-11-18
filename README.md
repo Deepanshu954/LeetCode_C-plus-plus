@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0855-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0855-count-unique-characters-of-all-substrings-of-a-given-string) |
 | [0863-sum-of-distances-in-tree](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0863-sum-of-distances-in-tree) |
 | [0867-new-21-game](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0867-new-21-game) |
+| [0868-push-dominoes](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0868-push-dominoes) |
 | [1013-fibonacci-number](https://github.com/Deepanshu954/LeetCode/tree/master/1013-fibonacci-number) |
 ## Math
 |  |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Deepanshu954/LeetCode/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/Deepanshu954/LeetCode/tree/master/0189-rotate-array) |
 | [0861-flipping-an-image](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0861-flipping-an-image) |
+| [0868-push-dominoes](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0868-push-dominoes) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Deepanshu954/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## String
 |  |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0855-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0855-count-unique-characters-of-all-substrings-of-a-given-string) |
 | [0857-positions-of-large-groups](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0857-positions-of-large-groups) |
 | [0858-masking-personal-information](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0858-masking-personal-information) |
+| [0868-push-dominoes](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0868-push-dominoes) |
 ## Recursion
 |  |
 | ------- |
