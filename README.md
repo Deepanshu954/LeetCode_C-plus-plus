@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0565-array-nesting](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0565-array-nesting) |
 | [0566-reshape-the-matrix](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0566-reshape-the-matrix) |
 | [0575-distribute-candies](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0575-distribute-candies) |
+| [0587-erect-the-fence](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0587-erect-the-fence) |
 | [0792-binary-search](https://github.com/Deepanshu954/LeetCode/tree/master/0792-binary-search) |
 | [0854-making-a-large-island](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0854-making-a-large-island) |
 | [0861-flipping-an-image](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0861-flipping-an-image) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0553-optimal-division](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0553-optimal-division) |
 | [0556-next-greater-element-iii](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0556-next-greater-element-iii) |
 | [0564-find-the-closest-palindrome](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0564-find-the-closest-palindrome) |
+| [0587-erect-the-fence](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0587-erect-the-fence) |
 | [0856-consecutive-numbers-sum](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0856-consecutive-numbers-sum) |
 | [0866-rectangle-overlap](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0866-rectangle-overlap) |
 | [0867-new-21-game](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0867-new-21-game) |
@@ -368,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [0587-erect-the-fence](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0587-erect-the-fence) |
 | [0866-rectangle-overlap](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0866-rectangle-overlap) |
 ## Probability and Statistics
 |  |
