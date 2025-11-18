@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0575-distribute-candies](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0575-distribute-candies) |
 | [0587-erect-the-fence](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0587-erect-the-fence) |
 | [0594-longest-harmonious-subsequence](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0594-longest-harmonious-subsequence) |
+| [0598-range-addition-ii](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0598-range-addition-ii) |
 | [0792-binary-search](https://github.com/Deepanshu954/LeetCode/tree/master/0792-binary-search) |
 | [0854-making-a-large-island](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0854-making-a-large-island) |
 | [0861-flipping-an-image](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0861-flipping-an-image) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0587-erect-the-fence](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0587-erect-the-fence) |
 | [0592-fraction-addition-and-subtraction](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0592-fraction-addition-and-subtraction) |
 | [0593-valid-square](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0593-valid-square) |
+| [0598-range-addition-ii](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0598-range-addition-ii) |
 | [0856-consecutive-numbers-sum](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0856-consecutive-numbers-sum) |
 | [0866-rectangle-overlap](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0866-rectangle-overlap) |
 | [0867-new-21-game](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0867-new-21-game) |
