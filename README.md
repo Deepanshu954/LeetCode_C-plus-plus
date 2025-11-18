@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Deepanshu954/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0561-array-partition) |
 | [0565-array-nesting](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0565-array-nesting) |
+| [0566-reshape-the-matrix](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0566-reshape-the-matrix) |
 | [0792-binary-search](https://github.com/Deepanshu954/LeetCode/tree/master/0792-binary-search) |
 | [0854-making-a-large-island](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0854-making-a-large-island) |
 | [0861-flipping-an-image](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0861-flipping-an-image) |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/Deepanshu954/LeetCode/tree/master/0054-spiral-matrix) |
 | [0537-complex-number-multiplication](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0537-complex-number-multiplication) |
+| [0566-reshape-the-matrix](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0566-reshape-the-matrix) |
 | [0861-flipping-an-image](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0861-flipping-an-image) |
 | [0874-backspace-string-compare](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0874-backspace-string-compare) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Deepanshu954/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -266,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/Deepanshu954/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0529-minesweeper](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0529-minesweeper) |
 | [0542-01-matrix](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0542-01-matrix) |
+| [0566-reshape-the-matrix](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0566-reshape-the-matrix) |
 | [0854-making-a-large-island](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0854-making-a-large-island) |
 | [0861-flipping-an-image](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0861-flipping-an-image) |
 | [0864-image-overlap](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0864-image-overlap) |
