@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0539-minimum-time-difference](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0539-minimum-time-difference) |
 | [0553-optimal-division](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0553-optimal-division) |
 | [0556-next-greater-element-iii](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0556-next-greater-element-iii) |
+| [0564-find-the-closest-palindrome](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0564-find-the-closest-palindrome) |
 | [0856-consecutive-numbers-sum](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0856-consecutive-numbers-sum) |
 | [0866-rectangle-overlap](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0866-rectangle-overlap) |
 | [0867-new-21-game](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0867-new-21-game) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0551-student-attendance-record-i](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0551-student-attendance-record-i) |
 | [0556-next-greater-element-iii](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0556-next-greater-element-iii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0564-find-the-closest-palindrome](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0564-find-the-closest-palindrome) |
 | [0855-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0855-count-unique-characters-of-all-substrings-of-a-given-string) |
 | [0857-positions-of-large-groups](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0857-positions-of-large-groups) |
 | [0858-masking-personal-information](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0858-masking-personal-information) |
