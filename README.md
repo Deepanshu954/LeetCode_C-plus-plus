@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0407-trapping-rain-water-ii](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0407-trapping-rain-water-ii) |
 | [0410-split-array-largest-sum](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0410-split-array-largest-sum) |
 | [0413-arithmetic-slices](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0413-arithmetic-slices) |
+| [0414-third-maximum-number](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0414-third-maximum-number) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0485-max-consecutive-ones](https://github.com/Deepanshu954/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0517-super-washing-machines](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0517-super-washing-machines) |
@@ -270,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Deepanshu954/LeetCode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Deepanshu954/LeetCode/tree/master/0268-missing-number) |
 | [0406-queue-reconstruction-by-height](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0406-queue-reconstruction-by-height) |
+| [0414-third-maximum-number](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0414-third-maximum-number) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0532-k-diff-pairs-in-an-array) |
