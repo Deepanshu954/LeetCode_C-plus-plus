@@ -318,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0547-number-of-provinces) |
 | [0563-binary-tree-tilt](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0563-binary-tree-tilt) |
 | [0565-array-nesting](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0565-array-nesting) |
+| [0572-subtree-of-another-tree](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0572-subtree-of-another-tree) |
 | [0854-making-a-large-island](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0854-making-a-large-island) |
 | [0863-sum-of-distances-in-tree](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0863-sum-of-distances-in-tree) |
 | [0869-similar-string-groups](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0869-similar-string-groups) |
@@ -350,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0538-convert-bst-to-greater-tree](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0543-diameter-of-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0563-binary-tree-tilt) |
+| [0572-subtree-of-another-tree](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0572-subtree-of-another-tree) |
 | [0863-sum-of-distances-in-tree](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0863-sum-of-distances-in-tree) |
 ## Graph
 |  |
@@ -413,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0538-convert-bst-to-greater-tree](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0543-diameter-of-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0563-binary-tree-tilt) |
+| [0572-subtree-of-another-tree](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0572-subtree-of-another-tree) |
 ## Reservoir Sampling
 |  |
 | ------- |
@@ -435,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0535-encode-and-decode-tinyurl](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0535-encode-and-decode-tinyurl) |
+| [0572-subtree-of-another-tree](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0572-subtree-of-another-tree) |
 ## Counting Sort
 |  |
 | ------- |
@@ -443,4 +447,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0570-managers-with-at-least-5-direct-reports) |
+## String Matching
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
