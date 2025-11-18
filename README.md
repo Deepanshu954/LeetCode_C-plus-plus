@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0858-masking-personal-information](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0858-masking-personal-information) |
 | [0868-push-dominoes](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0868-push-dominoes) |
 | [0869-similar-string-groups](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0869-similar-string-groups) |
+| [0872-split-array-into-fibonacci-sequence](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0872-split-array-into-fibonacci-sequence) |
 ## Recursion
 |  |
 | ------- |
@@ -240,4 +241,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0867-new-21-game](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0867-new-21-game) |
+## Backtracking
+|  |
+| ------- |
+| [0872-split-array-into-fibonacci-sequence](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0872-split-array-into-fibonacci-sequence) |
 <!---LeetCode Topics End-->
