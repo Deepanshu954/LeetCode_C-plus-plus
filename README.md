@@ -341,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0404-sum-of-left-leaves](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0404-sum-of-left-leaves) |
 | [0513-find-bottom-left-tree-value](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0513-find-bottom-left-tree-value) |
 | [0514-freedom-trail](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0514-freedom-trail) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -362,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0404-sum-of-left-leaves](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0404-sum-of-left-leaves) |
 | [0513-find-bottom-left-tree-value](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0513-find-bottom-left-tree-value) |
 | [0514-freedom-trail](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0514-freedom-trail) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -380,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0404-sum-of-left-leaves](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0404-sum-of-left-leaves) |
 | [0513-find-bottom-left-tree-value](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -450,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0404-sum-of-left-leaves](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0404-sum-of-left-leaves) |
 | [0513-find-bottom-left-tree-value](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0530-minimum-absolute-difference-in-bst) |
