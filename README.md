@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Deepanshu954/LeetCode/tree/master/0268-missing-number) |
 | [0403-frog-jump](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0403-frog-jump) |
 | [0406-queue-reconstruction-by-height](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0406-queue-reconstruction-by-height) |
+| [0407-trapping-rain-water-ii](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0407-trapping-rain-water-ii) |
 | [0485-max-consecutive-ones](https://github.com/Deepanshu954/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0517-super-washing-machines](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0517-super-washing-machines) |
 | [0518-coin-change-ii](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0518-coin-change-ii) |
@@ -301,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Deepanshu954/LeetCode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Deepanshu954/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0085-maximal-rectangle](https://github.com/Deepanshu954/LeetCode/tree/master/0085-maximal-rectangle) |
+| [0407-trapping-rain-water-ii](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0407-trapping-rain-water-ii) |
 | [0529-minesweeper](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0529-minesweeper) |
 | [0542-01-matrix](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0542-01-matrix) |
 | [0566-reshape-the-matrix](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0566-reshape-the-matrix) |
@@ -369,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0404-sum-of-left-leaves](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0404-sum-of-left-leaves) |
+| [0407-trapping-rain-water-ii](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0407-trapping-rain-water-ii) |
 | [0513-find-bottom-left-tree-value](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0513-find-bottom-left-tree-value) |
 | [0514-freedom-trail](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0514-freedom-trail) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -442,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0407-trapping-rain-water-ii](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0407-trapping-rain-water-ii) |
 | [0885-exam-room](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0885-exam-room) |
 ## Ordered Set
 |  |
