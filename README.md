@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Deepanshu954/LeetCode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Deepanshu954/LeetCode/tree/master/0268-missing-number) |
 | [0400-nth-digit](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0400-nth-digit) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0523-continuous-subarray-sum](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0523-continuous-subarray-sum) |
 | [0537-complex-number-multiplication](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0537-complex-number-multiplication) |
 | [0539-minimum-time-difference](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0539-minimum-time-difference) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Deepanshu954/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0125-valid-palindrome](https://github.com/Deepanshu954/LeetCode/tree/master/0125-valid-palindrome) |
 | [0402-remove-k-digits](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0402-remove-k-digits) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0514-freedom-trail](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0514-freedom-trail) |
 | [0516-longest-palindromic-subsequence](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0516-longest-palindromic-subsequence) |
 | [0520-detect-capital](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0520-detect-capital) |
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Deepanshu954/LeetCode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Deepanshu954/LeetCode/tree/master/0268-missing-number) |
 | [0401-binary-watch](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0401-binary-watch) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0526-beautiful-arrangement](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0526-beautiful-arrangement) |
 | [0861-flipping-an-image](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0861-flipping-an-image) |
 ## Hash Table
