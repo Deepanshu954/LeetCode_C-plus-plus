@@ -439,4 +439,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0561-array-partition) |
+## Database
+|  |
+| ------- |
+| [0570-managers-with-at-least-5-direct-reports](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0570-managers-with-at-least-5-direct-reports) |
 <!---LeetCode Topics End-->
