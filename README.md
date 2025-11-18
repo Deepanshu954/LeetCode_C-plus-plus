@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Deepanshu954/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0517-super-washing-machines](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0517-super-washing-machines) |
 | [0518-coin-change-ii](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0518-coin-change-ii) |
+| [0522-longest-uncommon-subsequence-ii](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Deepanshu954/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Deepanshu954/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0792-binary-search](https://github.com/Deepanshu954/LeetCode/tree/master/0792-binary-search) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Deepanshu954/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Deepanshu954/LeetCode/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/Deepanshu954/LeetCode/tree/master/0189-rotate-array) |
+| [0522-longest-uncommon-subsequence-ii](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0861-flipping-an-image](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0861-flipping-an-image) |
 | [0868-push-dominoes](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0868-push-dominoes) |
 | [0874-backspace-string-compare](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0874-backspace-string-compare) |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0516-longest-palindromic-subsequence) |
 | [0520-detect-capital](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0520-detect-capital) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0521-longest-uncommon-subsequence-i) |
+| [0522-longest-uncommon-subsequence-ii](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0855-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0855-count-unique-characters-of-all-substrings-of-a-given-string) |
 | [0857-positions-of-large-groups](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0857-positions-of-large-groups) |
 | [0858-masking-personal-information](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0858-masking-personal-information) |
@@ -143,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Deepanshu954/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Deepanshu954/LeetCode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Deepanshu954/LeetCode/tree/master/0268-missing-number) |
+| [0522-longest-uncommon-subsequence-ii](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Deepanshu954/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0855-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0855-count-unique-characters-of-all-substrings-of-a-given-string) |
 | [0869-similar-string-groups](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0869-similar-string-groups) |
@@ -175,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Deepanshu954/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Deepanshu954/LeetCode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Deepanshu954/LeetCode/tree/master/0268-missing-number) |
+| [0522-longest-uncommon-subsequence-ii](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0876-hand-of-straights](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0876-hand-of-straights) |
 ## Divide and Conquer
 |  |
