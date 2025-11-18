@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0861-flipping-an-image](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0861-flipping-an-image) |
 | [0864-image-overlap](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0864-image-overlap) |
 | [0869-similar-string-groups](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0869-similar-string-groups) |
+| [0870-magic-squares-in-grid](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0870-magic-squares-in-grid) |
 | [0907-koko-eating-bananas](https://github.com/Deepanshu954/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Deepanshu954/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Deepanshu954/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0856-consecutive-numbers-sum](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0856-consecutive-numbers-sum) |
 | [0866-rectangle-overlap](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0866-rectangle-overlap) |
 | [0867-new-21-game](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0867-new-21-game) |
+| [0870-magic-squares-in-grid](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0870-magic-squares-in-grid) |
 | [1013-fibonacci-number](https://github.com/Deepanshu954/LeetCode/tree/master/1013-fibonacci-number) |
 ## Two Pointers
 |  |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Deepanshu954/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0855-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0855-count-unique-characters-of-all-substrings-of-a-given-string) |
 | [0869-similar-string-groups](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0869-similar-string-groups) |
+| [0870-magic-squares-in-grid](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0870-magic-squares-in-grid) |
 ## Binary Search
 |  |
 | ------- |
@@ -181,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0854-making-a-large-island](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0854-making-a-large-island) |
 | [0861-flipping-an-image](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0861-flipping-an-image) |
 | [0864-image-overlap](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0864-image-overlap) |
+| [0870-magic-squares-in-grid](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0870-magic-squares-in-grid) |
 ## Prefix Sum
 |  |
 | ------- |
