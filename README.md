@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0564-find-the-closest-palindrome](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0564-find-the-closest-palindrome) |
 | [0587-erect-the-fence](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0587-erect-the-fence) |
 | [0592-fraction-addition-and-subtraction](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0592-fraction-addition-and-subtraction) |
+| [0593-valid-square](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0593-valid-square) |
 | [0856-consecutive-numbers-sum](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0856-consecutive-numbers-sum) |
 | [0866-rectangle-overlap](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0866-rectangle-overlap) |
 | [0867-new-21-game](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0867-new-21-game) |
@@ -382,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0587-erect-the-fence](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0587-erect-the-fence) |
+| [0593-valid-square](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0593-valid-square) |
 | [0866-rectangle-overlap](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0866-rectangle-overlap) |
 ## Probability and Statistics
 |  |
