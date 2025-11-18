@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Deepanshu954/LeetCode/tree/master/0268-missing-number) |
 | [0400-nth-digit](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0400-nth-digit) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0412-fizz-buzz](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0412-fizz-buzz) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0523-continuous-subarray-sum](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0523-continuous-subarray-sum) |
 | [0537-complex-number-multiplication](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0537-complex-number-multiplication) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0402-remove-k-digits) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0409-longest-palindrome](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0409-longest-palindrome) |
+| [0412-fizz-buzz](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0412-fizz-buzz) |
 | [0514-freedom-trail](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0514-freedom-trail) |
 | [0516-longest-palindromic-subsequence](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0516-longest-palindromic-subsequence) |
 | [0520-detect-capital](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0520-detect-capital) |
@@ -289,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Deepanshu954/LeetCode/tree/master/0054-spiral-matrix) |
+| [0412-fizz-buzz](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0412-fizz-buzz) |
 | [0537-complex-number-multiplication](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0537-complex-number-multiplication) |
 | [0566-reshape-the-matrix](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0566-reshape-the-matrix) |
 | [0592-fraction-addition-and-subtraction](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0592-fraction-addition-and-subtraction) |
