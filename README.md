@@ -267,4 +267,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0881-loud-and-rich](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0881-loud-and-rich) |
+## Design
+|  |
+| ------- |
+| [0885-exam-room](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0885-exam-room) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0885-exam-room](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0885-exam-room) |
+## Ordered Set
+|  |
+| ------- |
+| [0885-exam-room](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0885-exam-room) |
 <!---LeetCode Topics End-->
