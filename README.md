@@ -305,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/Deepanshu954/LeetCode/tree/master/0085-maximal-rectangle) |
+| [0775-n-ary-tree-preorder-traversal](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0874-backspace-string-compare](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0874-backspace-string-compare) |
 | [0937-online-stock-span](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0937-online-stock-span) |
 ## Monotonic Stack
@@ -326,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0563-binary-tree-tilt](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0563-binary-tree-tilt) |
 | [0565-array-nesting](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0565-array-nesting) |
 | [0572-subtree-of-another-tree](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0572-subtree-of-another-tree) |
+| [0775-n-ary-tree-preorder-traversal](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0854-making-a-large-island](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0854-making-a-large-island) |
 | [0863-sum-of-distances-in-tree](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0863-sum-of-distances-in-tree) |
 | [0869-similar-string-groups](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0869-similar-string-groups) |
@@ -359,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0543-diameter-of-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0563-binary-tree-tilt) |
 | [0572-subtree-of-another-tree](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0572-subtree-of-another-tree) |
+| [0775-n-ary-tree-preorder-traversal](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0863-sum-of-distances-in-tree](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0863-sum-of-distances-in-tree) |
 ## Graph
 |  |
