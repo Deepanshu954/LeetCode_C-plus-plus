@@ -1,0 +1,49 @@
+class Solution {
+public:
+    bool isMagic(vector<vector<int>>& grid, int r, int c) {
+        // Check if all numbers are 1-9 and distinct
+        vector<bool> seen(10, false);
+        for (int i = r; i < r + 3; i++) {
+            for (int j = c; j < c + 3; j++) {
+                int num = grid[i][j];
+                if (num < 1 || num > 9 || seen[num]) return false;
+                seen[num] = true;
+            }
+        }
+        
+        // Check sum of first row
+        int sum = grid[r][c] + grid[r][c+1] + grid[r][c+2];
+        
+        // Check all rows
+        for (int i = r; i < r + 3; i++) {
+            if (grid[i][c] + grid[i][c+1] + grid[i][c+2] != sum) return false;
+        }
+        
+        // Check all columns
+        for (int j = c; j < c + 3; j++) {
+            if (grid[r][j] + grid[r+1][j] + grid[r+2][j] != sum) return false;
+        }
+        
+        // Check diagonals
+        if (grid[r][c] + grid[r+1][c+1] + grid[r+2][c+2] != sum) return false;
+        if (grid[r][c+2] + grid[r+1][c+1] + grid[r+2][c] != sum) return false;
+        
+        return true;
+    }
+    
+    int numMagicSquaresInside(vector<vector<int>>& grid) {
+        int rows = grid.size();
+        int cols = grid[0].size();
+        int count = 0;
+        
+        for (int i = 0; i <= rows - 3; i++) {
+            for (int j = 0; j <= cols - 3; j++) {
+                if (isMagic(grid, i, j)) {
+                    count++;
+                }
+            }
+        }
+        
+        return count;
+    }
+};
