@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0521-longest-uncommon-subsequence-i](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0524-longest-word-in-dictionary-through-deleting) |
+| [0535-encode-and-decode-tinyurl](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0535-encode-and-decode-tinyurl) |
 | [0855-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0855-count-unique-characters-of-all-substrings-of-a-given-string) |
 | [0857-positions-of-large-groups](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0857-positions-of-large-groups) |
 | [0858-masking-personal-information](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0858-masking-personal-information) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0525-contiguous-array) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0535-encode-and-decode-tinyurl](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0535-encode-and-decode-tinyurl) |
 | [0560-subarray-sum-equals-k](https://github.com/Deepanshu954/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0855-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0855-count-unique-characters-of-all-substrings-of-a-given-string) |
 | [0869-similar-string-groups](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0869-similar-string-groups) |
@@ -333,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0535-encode-and-decode-tinyurl](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0535-encode-and-decode-tinyurl) |
 | [0885-exam-room](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0885-exam-room) |
 | [0936-rle-iterator](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0936-rle-iterator) |
 | [0937-online-stock-span](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0937-online-stock-span) |
@@ -375,4 +378,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0530-minimum-absolute-difference-in-bst) |
+## Hash Function
+|  |
+| ------- |
+| [0535-encode-and-decode-tinyurl](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0535-encode-and-decode-tinyurl) |
 <!---LeetCode Topics End-->
