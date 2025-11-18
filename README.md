@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0866-rectangle-overlap](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0866-rectangle-overlap) |
 | [0867-new-21-game](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0867-new-21-game) |
 | [0870-magic-squares-in-grid](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0870-magic-squares-in-grid) |
+| [0913-random-flip-matrix](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0913-random-flip-matrix) |
 | [1013-fibonacci-number](https://github.com/Deepanshu954/LeetCode/tree/master/1013-fibonacci-number) |
 ## Two Pointers
 |  |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0869-similar-string-groups](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0869-similar-string-groups) |
 | [0870-magic-squares-in-grid](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0870-magic-squares-in-grid) |
 | [0876-hand-of-straights](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0876-hand-of-straights) |
+| [0913-random-flip-matrix](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0913-random-flip-matrix) |
 | [0940-fruit-into-baskets](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0940-fruit-into-baskets) |
 ## Binary Search
 |  |
@@ -317,4 +319,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0513-find-bottom-left-tree-value](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0515-find-largest-value-in-each-tree-row) |
+## Reservoir Sampling
+|  |
+| ------- |
+| [0913-random-flip-matrix](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0913-random-flip-matrix) |
+## Randomized
+|  |
+| ------- |
+| [0913-random-flip-matrix](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0913-random-flip-matrix) |
 <!---LeetCode Topics End-->
