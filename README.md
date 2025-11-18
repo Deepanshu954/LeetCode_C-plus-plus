@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0406-queue-reconstruction-by-height](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0406-queue-reconstruction-by-height) |
 | [0407-trapping-rain-water-ii](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0407-trapping-rain-water-ii) |
 | [0410-split-array-largest-sum](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0410-split-array-largest-sum) |
+| [0413-arithmetic-slices](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0413-arithmetic-slices) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0485-max-consecutive-ones](https://github.com/Deepanshu954/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0517-super-washing-machines](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0517-super-washing-machines) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/Deepanshu954/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0403-frog-jump](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0403-frog-jump) |
 | [0410-split-array-largest-sum](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0410-split-array-largest-sum) |
+| [0413-arithmetic-slices](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0413-arithmetic-slices) |
 | [0514-freedom-trail](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0514-freedom-trail) |
 | [0516-longest-palindromic-subsequence](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0518-coin-change-ii) |
@@ -332,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Deepanshu954/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0413-arithmetic-slices](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0413-arithmetic-slices) |
 | [0567-permutation-in-string](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0594-longest-harmonious-subsequence) |
 | [0867-new-21-game](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0867-new-21-game) |
