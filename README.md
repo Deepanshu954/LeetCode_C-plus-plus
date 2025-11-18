@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0523-continuous-subarray-sum) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0525-contiguous-array](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0525-contiguous-array) |
+| [0526-beautiful-arrangement](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0526-beautiful-arrangement) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Deepanshu954/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Deepanshu954/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0792-binary-search](https://github.com/Deepanshu954/LeetCode/tree/master/0792-binary-search) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0514-freedom-trail](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0514-freedom-trail) |
 | [0516-longest-palindromic-subsequence](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0518-coin-change-ii) |
+| [0526-beautiful-arrangement](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0526-beautiful-arrangement) |
 | [0855-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0855-count-unique-characters-of-all-substrings-of-a-given-string) |
 | [0863-sum-of-distances-in-tree](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0863-sum-of-distances-in-tree) |
 | [0867-new-21-game](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0867-new-21-game) |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/Deepanshu954/LeetCode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Deepanshu954/LeetCode/tree/master/0268-missing-number) |
+| [0526-beautiful-arrangement](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0526-beautiful-arrangement) |
 | [0861-flipping-an-image](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0861-flipping-an-image) |
 ## Hash Table
 |  |
@@ -300,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0526-beautiful-arrangement](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0526-beautiful-arrangement) |
 | [0872-split-array-into-fibonacci-sequence](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0872-split-array-into-fibonacci-sequence) |
 ## Greedy
 |  |
@@ -345,4 +349,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0913-random-flip-matrix](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0913-random-flip-matrix) |
+## Bitmask
+|  |
+| ------- |
+| [0526-beautiful-arrangement](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0526-beautiful-arrangement) |
 <!---LeetCode Topics End-->
