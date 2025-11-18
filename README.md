@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0410-split-array-largest-sum) |
 | [0413-arithmetic-slices](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0413-arithmetic-slices) |
 | [0414-third-maximum-number](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0414-third-maximum-number) |
+| [0416-partition-equal-subset-sum](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0416-partition-equal-subset-sum) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0485-max-consecutive-ones](https://github.com/Deepanshu954/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0517-super-washing-machines](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0517-super-washing-machines) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0403-frog-jump](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0403-frog-jump) |
 | [0410-split-array-largest-sum](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0410-split-array-largest-sum) |
 | [0413-arithmetic-slices](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0413-arithmetic-slices) |
+| [0416-partition-equal-subset-sum](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0416-partition-equal-subset-sum) |
 | [0514-freedom-trail](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0514-freedom-trail) |
 | [0516-longest-palindromic-subsequence](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0518-coin-change-ii) |
