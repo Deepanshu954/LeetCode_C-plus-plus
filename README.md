@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0464-can-i-win](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0464-can-i-win) |
 | [0477-total-hamming-distance](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0477-total-hamming-distance) |
+| [0479-largest-palindrome-product](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0479-largest-palindrome-product) |
 | [0486-predict-the-winner](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0486-predict-the-winner) |
 | [0523-continuous-subarray-sum](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0523-continuous-subarray-sum) |
 | [0537-complex-number-multiplication](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0537-complex-number-multiplication) |
@@ -534,6 +535,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0479-largest-palindrome-product](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0479-largest-palindrome-product) |
 | [0856-consecutive-numbers-sum](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0856-consecutive-numbers-sum) |
 | [0875-longest-mountain-in-array](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0875-longest-mountain-in-array) |
 ## Tree
