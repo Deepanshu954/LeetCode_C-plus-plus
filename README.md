@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0472-concatenated-words](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0472-concatenated-words) |
 | [0473-matchsticks-to-square](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0473-matchsticks-to-square) |
 | [0474-ones-and-zeroes](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0474-ones-and-zeroes) |
+| [0475-heaters](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0475-heaters) |
 | [0485-max-consecutive-ones](https://github.com/Deepanshu954/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0517-super-washing-machines](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0517-super-washing-machines) |
 | [0518-coin-change-ii](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0518-coin-change-ii) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0443-string-compression) |
 | [0455-assign-cookies](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0455-assign-cookies) |
 | [0457-circular-array-loop](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0457-circular-array-loop) |
+| [0475-heaters](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0475-heaters) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0532-k-diff-pairs-in-an-array) |
@@ -334,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0436-find-right-interval](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0436-find-right-interval) |
 | [0441-arranging-coins](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0441-arranging-coins) |
 | [0456-132-pattern](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0456-132-pattern) |
+| [0475-heaters](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0475-heaters) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Deepanshu954/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/Deepanshu954/LeetCode/tree/master/0792-binary-search) |
@@ -360,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0455-assign-cookies) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0472-concatenated-words](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0472-concatenated-words) |
+| [0475-heaters](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0475-heaters) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0532-k-diff-pairs-in-an-array) |
