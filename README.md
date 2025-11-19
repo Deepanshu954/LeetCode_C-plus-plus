@@ -590,6 +590,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [0440-k-th-smallest-in-lexicographical-order](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 ## Doubly-Linked List
 |  |
 | ------- |
