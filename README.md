@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0866-rectangle-overlap](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0866-rectangle-overlap) |
 | [0867-new-21-game](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0867-new-21-game) |
 | [0870-magic-squares-in-grid](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0870-magic-squares-in-grid) |
+| [0903-implement-rand10-using-rand7](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0903-implement-rand10-using-rand7) |
 | [0912-random-pick-with-weight](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0912-random-pick-with-weight) |
 | [0913-random-flip-matrix](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0913-random-flip-matrix) |
 | [1013-fibonacci-number](https://github.com/Deepanshu954/LeetCode/tree/master/1013-fibonacci-number) |
@@ -541,6 +542,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0867-new-21-game](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0867-new-21-game) |
+| [0903-implement-rand10-using-rand7](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0903-implement-rand10-using-rand7) |
 ## Backtracking
 |  |
 | ------- |
@@ -615,6 +617,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Randomized
 |  |
 | ------- |
+| [0903-implement-rand10-using-rand7](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0903-implement-rand10-using-rand7) |
 | [0912-random-pick-with-weight](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0912-random-pick-with-weight) |
 | [0913-random-flip-matrix](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0913-random-flip-matrix) |
 ## Bitmask
@@ -682,4 +685,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0464-can-i-win](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0464-can-i-win) |
+## Rejection Sampling
+|  |
+| ------- |
+| [0903-implement-rand10-using-rand7](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0903-implement-rand10-using-rand7) |
 <!---LeetCode Topics End-->
