@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0446-arithmetic-slices-ii-subsequence) |
 | [0458-poor-pigs](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0458-poor-pigs) |
 | [0464-can-i-win](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0464-can-i-win) |
+| [0466-count-the-repetitions](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0466-count-the-repetitions) |
 | [0514-freedom-trail](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0514-freedom-trail) |
 | [0516-longest-palindromic-subsequence](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0518-coin-change-ii) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0449-serialize-and-deserialize-bst](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0449-serialize-and-deserialize-bst) |
 | [0451-sort-characters-by-frequency](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0451-sort-characters-by-frequency) |
 | [0459-repeated-substring-pattern](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0459-repeated-substring-pattern) |
+| [0466-count-the-repetitions](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0466-count-the-repetitions) |
 | [0514-freedom-trail](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0514-freedom-trail) |
 | [0516-longest-palindromic-subsequence](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0516-longest-palindromic-subsequence) |
 | [0520-detect-capital](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0520-detect-capital) |
