@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0454-4sum-ii](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0454-4sum-ii) |
 | [0455-assign-cookies](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0455-assign-cookies) |
 | [0456-132-pattern](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0456-132-pattern) |
+| [0457-circular-array-loop](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0457-circular-array-loop) |
 | [0485-max-consecutive-ones](https://github.com/Deepanshu954/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0517-super-washing-machines](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0517-super-washing-machines) |
 | [0518-coin-change-ii](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0518-coin-change-ii) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Deepanshu954/LeetCode/tree/master/0189-rotate-array) |
 | [0443-string-compression](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0443-string-compression) |
 | [0455-assign-cookies](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0455-assign-cookies) |
+| [0457-circular-array-loop](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0457-circular-array-loop) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0532-k-diff-pairs-in-an-array) |
@@ -271,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0451-sort-characters-by-frequency) |
 | [0454-4sum-ii](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0454-4sum-ii) |
+| [0457-circular-array-loop](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0457-circular-array-loop) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0523-continuous-subarray-sum](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0525-contiguous-array) |
