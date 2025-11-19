@@ -179,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0903-implement-rand10-using-rand7](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0903-implement-rand10-using-rand7) |
 | [0912-random-pick-with-weight](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0912-random-pick-with-weight) |
 | [0913-random-flip-matrix](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0913-random-flip-matrix) |
+| [0915-generate-random-point-in-a-circle](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0915-generate-random-point-in-a-circle) |
 | [1013-fibonacci-number](https://github.com/Deepanshu954/LeetCode/tree/master/1013-fibonacci-number) |
 ## Two Pointers
 |  |
@@ -557,6 +558,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0587-erect-the-fence](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0587-erect-the-fence) |
 | [0593-valid-square](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0593-valid-square) |
 | [0866-rectangle-overlap](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0866-rectangle-overlap) |
+| [0915-generate-random-point-in-a-circle](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0915-generate-random-point-in-a-circle) |
 ## Probability and Statistics
 |  |
 | ------- |
@@ -640,6 +642,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0903-implement-rand10-using-rand7](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0903-implement-rand10-using-rand7) |
 | [0912-random-pick-with-weight](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0912-random-pick-with-weight) |
 | [0913-random-flip-matrix](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0913-random-flip-matrix) |
+| [0915-generate-random-point-in-a-circle](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0915-generate-random-point-in-a-circle) |
 ## Bitmask
 |  |
 | ------- |
@@ -711,4 +714,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0903-implement-rand10-using-rand7](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0903-implement-rand10-using-rand7) |
+| [0915-generate-random-point-in-a-circle](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0915-generate-random-point-in-a-circle) |
 <!---LeetCode Topics End-->
