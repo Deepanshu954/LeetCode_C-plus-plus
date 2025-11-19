@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0457-circular-array-loop](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0457-circular-array-loop) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0463-island-perimeter](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0463-island-perimeter) |
+| [0472-concatenated-words](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0472-concatenated-words) |
 | [0485-max-consecutive-ones](https://github.com/Deepanshu954/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0517-super-washing-machines](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0517-super-washing-machines) |
 | [0518-coin-change-ii](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0518-coin-change-ii) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0464-can-i-win](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0464-can-i-win) |
 | [0466-count-the-repetitions](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0466-count-the-repetitions) |
 | [0467-unique-substrings-in-wraparound-string](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0467-unique-substrings-in-wraparound-string) |
+| [0472-concatenated-words](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0472-concatenated-words) |
 | [0514-freedom-trail](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0514-freedom-trail) |
 | [0516-longest-palindromic-subsequence](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0518-coin-change-ii) |
@@ -220,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0466-count-the-repetitions](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0466-count-the-repetitions) |
 | [0467-unique-substrings-in-wraparound-string](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0467-unique-substrings-in-wraparound-string) |
 | [0468-validate-ip-address](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0468-validate-ip-address) |
+| [0472-concatenated-words](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0472-concatenated-words) |
 | [0514-freedom-trail](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0514-freedom-trail) |
 | [0516-longest-palindromic-subsequence](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0516-longest-palindromic-subsequence) |
 | [0520-detect-capital](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0520-detect-capital) |
@@ -350,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0455-assign-cookies) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0472-concatenated-words](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0472-concatenated-words) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0532-k-diff-pairs-in-an-array) |
@@ -463,6 +467,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0437-path-sum-iii](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0437-path-sum-iii) |
 | [0449-serialize-and-deserialize-bst](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0449-serialize-and-deserialize-bst) |
 | [0463-island-perimeter](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0463-island-perimeter) |
+| [0472-concatenated-words](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0472-concatenated-words) |
 | [0513-find-bottom-left-tree-value](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0513-find-bottom-left-tree-value) |
 | [0514-freedom-trail](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0514-freedom-trail) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -668,6 +673,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0440-k-th-smallest-in-lexicographical-order) |
+| [0472-concatenated-words](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0472-concatenated-words) |
 ## Doubly-Linked List
 |  |
 | ------- |
