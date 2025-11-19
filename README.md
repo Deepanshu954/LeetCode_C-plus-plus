@@ -277,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0451-sort-characters-by-frequency) |
 | [0454-4sum-ii](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0454-4sum-ii) |
 | [0457-circular-array-loop](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0457-circular-array-loop) |
+| [0460-lfu-cache](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0460-lfu-cache) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0523-continuous-subarray-sum](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0525-contiguous-array) |
@@ -417,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Deepanshu954/LeetCode/tree/master/0002-add-two-numbers) |
 | [0432-all-oone-data-structure](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0432-all-oone-data-structure) |
 | [0445-add-two-numbers-ii](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0445-add-two-numbers-ii) |
+| [0460-lfu-cache](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0460-lfu-cache) |
 ## Stack
 |  |
 | ------- |
@@ -550,6 +552,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0432-all-oone-data-structure](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0432-all-oone-data-structure) |
 | [0449-serialize-and-deserialize-bst](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0449-serialize-and-deserialize-bst) |
+| [0460-lfu-cache](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0460-lfu-cache) |
 | [0535-encode-and-decode-tinyurl](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0535-encode-and-decode-tinyurl) |
 | [0885-exam-room](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0885-exam-room) |
 | [0936-rle-iterator](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0936-rle-iterator) |
@@ -648,6 +651,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0432-all-oone-data-structure](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0432-all-oone-data-structure) |
+| [0460-lfu-cache](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0460-lfu-cache) |
 ## Bucket Sort
 |  |
 | ------- |
