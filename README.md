@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0415-add-strings) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0423-reconstruct-original-digits-from-english) |
 | [0441-arranging-coins](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0441-arranging-coins) |
+| [0445-add-two-numbers-ii](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0445-add-two-numbers-ii) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0523-continuous-subarray-sum](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0523-continuous-subarray-sum) |
 | [0537-complex-number-multiplication](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0537-complex-number-multiplication) |
@@ -388,11 +389,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Deepanshu954/LeetCode/tree/master/0002-add-two-numbers) |
 | [0432-all-oone-data-structure](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0432-all-oone-data-structure) |
+| [0445-add-two-numbers-ii](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0445-add-two-numbers-ii) |
 ## Stack
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/Deepanshu954/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0402-remove-k-digits](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0402-remove-k-digits) |
+| [0445-add-two-numbers-ii](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0445-add-two-numbers-ii) |
 | [0591-tag-validator](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0591-tag-validator) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0776-n-ary-tree-postorder-traversal) |
