@@ -197,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0455-assign-cookies) |
 | [0457-circular-array-loop](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0457-circular-array-loop) |
 | [0475-heaters](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0475-heaters) |
+| [0481-magical-string](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0481-magical-string) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0532-k-diff-pairs-in-an-array) |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0468-validate-ip-address](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0468-validate-ip-address) |
 | [0472-concatenated-words](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0472-concatenated-words) |
 | [0474-ones-and-zeroes](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0474-ones-and-zeroes) |
+| [0481-magical-string](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0481-magical-string) |
 | [0514-freedom-trail](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0514-freedom-trail) |
 | [0516-longest-palindromic-subsequence](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0516-longest-palindromic-subsequence) |
 | [0520-detect-capital](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0520-detect-capital) |
