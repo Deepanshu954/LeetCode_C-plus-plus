@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0473-matchsticks-to-square](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0473-matchsticks-to-square) |
 | [0474-ones-and-zeroes](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0474-ones-and-zeroes) |
 | [0475-heaters](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0475-heaters) |
+| [0477-total-hamming-distance](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0477-total-hamming-distance) |
 | [0485-max-consecutive-ones](https://github.com/Deepanshu954/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0517-super-washing-machines](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0517-super-washing-machines) |
 | [0518-coin-change-ii](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0518-coin-change-ii) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0458-poor-pigs](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0458-poor-pigs) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0464-can-i-win](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0464-can-i-win) |
+| [0477-total-hamming-distance](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0477-total-hamming-distance) |
 | [0523-continuous-subarray-sum](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0523-continuous-subarray-sum) |
 | [0537-complex-number-multiplication](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0537-complex-number-multiplication) |
 | [0539-minimum-time-difference](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0539-minimum-time-difference) |
@@ -278,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0464-can-i-win](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0464-can-i-win) |
 | [0473-matchsticks-to-square](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0473-matchsticks-to-square) |
 | [0476-number-complement](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0476-number-complement) |
+| [0477-total-hamming-distance](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0477-total-hamming-distance) |
 | [0526-beautiful-arrangement](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0526-beautiful-arrangement) |
 | [0861-flipping-an-image](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0861-flipping-an-image) |
 ## Hash Table
