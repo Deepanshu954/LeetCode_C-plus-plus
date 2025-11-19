@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0474-ones-and-zeroes](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0474-ones-and-zeroes) |
 | [0475-heaters](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0475-heaters) |
 | [0477-total-hamming-distance](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0477-total-hamming-distance) |
+| [0480-sliding-window-median](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0480-sliding-window-median) |
 | [0485-max-consecutive-ones](https://github.com/Deepanshu954/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0517-super-washing-machines](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0517-super-washing-machines) |
 | [0518-coin-change-ii](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0518-coin-change-ii) |
@@ -308,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0454-4sum-ii](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0454-4sum-ii) |
 | [0457-circular-array-loop](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0457-circular-array-loop) |
 | [0460-lfu-cache](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0460-lfu-cache) |
+| [0480-sliding-window-median](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0480-sliding-window-median) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0523-continuous-subarray-sum](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0525-contiguous-array) |
@@ -443,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0413-arithmetic-slices](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0413-arithmetic-slices) |
 | [0424-longest-repeating-character-replacement](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0480-sliding-window-median](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0480-sliding-window-median) |
 | [0567-permutation-in-string](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0594-longest-harmonious-subsequence) |
 | [0867-new-21-game](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0867-new-21-game) |
@@ -604,6 +607,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0407-trapping-rain-water-ii](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0407-trapping-rain-water-ii) |
 | [0420-strong-password-checker](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0420-strong-password-checker) |
 | [0451-sort-characters-by-frequency](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0451-sort-characters-by-frequency) |
+| [0480-sliding-window-median](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0480-sliding-window-median) |
 | [0885-exam-room](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0885-exam-room) |
 ## Ordered Set
 |  |
