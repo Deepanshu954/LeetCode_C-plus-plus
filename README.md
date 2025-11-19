@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0480-sliding-window-median](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0480-sliding-window-median) |
 | [0485-max-consecutive-ones](https://github.com/Deepanshu954/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0486-predict-the-winner) |
+| [0494-target-sum](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0494-target-sum) |
 | [0517-super-washing-machines](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0517-super-washing-machines) |
 | [0518-coin-change-ii](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0518-coin-change-ii) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0522-longest-uncommon-subsequence-ii) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0473-matchsticks-to-square](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0473-matchsticks-to-square) |
 | [0474-ones-and-zeroes](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0474-ones-and-zeroes) |
 | [0486-predict-the-winner](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0486-predict-the-winner) |
+| [0494-target-sum](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0494-target-sum) |
 | [0514-freedom-trail](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0514-freedom-trail) |
 | [0516-longest-palindromic-subsequence](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0518-coin-change-ii) |
@@ -581,6 +583,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0401-binary-watch](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0401-binary-watch) |
 | [0473-matchsticks-to-square](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0473-matchsticks-to-square) |
+| [0494-target-sum](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0494-target-sum) |
 | [0526-beautiful-arrangement](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0526-beautiful-arrangement) |
 | [0872-split-array-into-fibonacci-sequence](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0872-split-array-into-fibonacci-sequence) |
 ## Greedy
