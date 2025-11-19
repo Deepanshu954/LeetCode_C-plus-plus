@@ -277,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0461-hamming-distance](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0461-hamming-distance) |
 | [0464-can-i-win](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0464-can-i-win) |
 | [0473-matchsticks-to-square](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0473-matchsticks-to-square) |
+| [0476-number-complement](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0476-number-complement) |
 | [0526-beautiful-arrangement](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0526-beautiful-arrangement) |
 | [0861-flipping-an-image](https://github.com/Deepanshu954/LeetCode_C-plus-plus/tree/master/0861-flipping-an-image) |
 ## Hash Table
