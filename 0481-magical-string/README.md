@@ -1,4 +1,5 @@
-<h2><a href="https://leetcode.com/problems/magical-string">481. Magical String</a></h2><h3>Medium</h3><hr><p>A magical string <code>s</code> consists of only <code>&#39;1&#39;</code> and <code>&#39;2&#39;</code> and obeys the following rules:</p>
+<h2><a href="https://leetcode.com/problems/magical-string">481. Magical String</a></h2>
+📌 **Complexity Analysis:** [Complexity.md](./Complexity.md)<h3>Medium</h3><hr><p>A magical string <code>s</code> consists of only <code>&#39;1&#39;</code> and <code>&#39;2&#39;</code> and obeys the following rules:</p>
 
 <ul>
 	<li>The string s is magical because concatenating the number of contiguous occurrences of characters <code>&#39;1&#39;</code> and <code>&#39;2&#39;</code> generates the string <code>s</code> itself.</li>

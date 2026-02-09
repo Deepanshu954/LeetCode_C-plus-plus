@@ -1,4 +1,5 @@
-<h2><a href="https://leetcode.com/problems/random-flip-matrix">913. Random Flip Matrix</a></h2><h3>Medium</h3><hr><p>There is an <code>m x n</code> binary grid <code>matrix</code> with all the values set <code>0</code> initially. Design an algorithm to randomly pick an index <code>(i, j)</code> where <code>matrix[i][j] == 0</code> and flips it to <code>1</code>. All the indices <code>(i, j)</code> where <code>matrix[i][j] == 0</code> should be equally likely to be returned.</p>
+<h2><a href="https://leetcode.com/problems/random-flip-matrix">913. Random Flip Matrix</a></h2>
+📌 **Complexity Analysis:** [Complexity.md](./Complexity.md)<h3>Medium</h3><hr><p>There is an <code>m x n</code> binary grid <code>matrix</code> with all the values set <code>0</code> initially. Design an algorithm to randomly pick an index <code>(i, j)</code> where <code>matrix[i][j] == 0</code> and flips it to <code>1</code>. All the indices <code>(i, j)</code> where <code>matrix[i][j] == 0</code> should be equally likely to be returned.</p>
 
 <p>Optimize your algorithm to minimize the number of calls made to the <strong>built-in</strong> random function of your language and optimize the time and space complexity.</p>
 

@@ -1,4 +1,5 @@
-<h2><a href="https://leetcode.com/problems/find-right-interval">436. Find Right Interval</a></h2><h3>Medium</h3><hr><p>You are given an array of <code>intervals</code>, where <code>intervals[i] = [start<sub>i</sub>, end<sub>i</sub>]</code> and each <code>start<sub>i</sub></code> is <strong>unique</strong>.</p>
+<h2><a href="https://leetcode.com/problems/find-right-interval">436. Find Right Interval</a></h2>
+📌 **Complexity Analysis:** [Complexity.md](./Complexity.md)<h3>Medium</h3><hr><p>You are given an array of <code>intervals</code>, where <code>intervals[i] = [start<sub>i</sub>, end<sub>i</sub>]</code> and each <code>start<sub>i</sub></code> is <strong>unique</strong>.</p>
 
 <p>The <strong>right interval</strong> for an interval <code>i</code> is an interval <code>j</code> such that <code>start<sub>j</sub> &gt;= end<sub>i</sub></code> and <code>start<sub>j</sub></code> is <strong>minimized</strong>. Note that <code>i</code> may equal <code>j</code>.</p>
 

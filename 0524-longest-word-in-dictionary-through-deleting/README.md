@@ -1,4 +1,5 @@
-<h2><a href="https://leetcode.com/problems/longest-word-in-dictionary-through-deleting">524. Longest Word in Dictionary through Deleting</a></h2><h3>Medium</h3><hr><p>Given a string <code>s</code> and a string array <code>dictionary</code>, return <em>the longest string in the dictionary that can be formed by deleting some of the given string characters</em>. If there is more than one possible result, return the longest word with the smallest lexicographical order. If there is no possible result, return the empty string.</p>
+<h2><a href="https://leetcode.com/problems/longest-word-in-dictionary-through-deleting">524. Longest Word in Dictionary through Deleting</a></h2>
+📌 **Complexity Analysis:** [Complexity.md](./Complexity.md)<h3>Medium</h3><hr><p>Given a string <code>s</code> and a string array <code>dictionary</code>, return <em>the longest string in the dictionary that can be formed by deleting some of the given string characters</em>. If there is more than one possible result, return the longest word with the smallest lexicographical order. If there is no possible result, return the empty string.</p>
 
 <p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>

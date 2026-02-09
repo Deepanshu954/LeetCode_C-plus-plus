@@ -1,4 +1,5 @@
-<h2><a href="https://leetcode.com/problems/optimal-division">553. Optimal Division</a></h2><h3>Medium</h3><hr><p>You are given an integer array <code>nums</code>. The adjacent integers in <code>nums</code> will perform the float division.</p>
+<h2><a href="https://leetcode.com/problems/optimal-division">553. Optimal Division</a></h2>
+📌 **Complexity Analysis:** [Complexity.md](./Complexity.md)<h3>Medium</h3><hr><p>You are given an integer array <code>nums</code>. The adjacent integers in <code>nums</code> will perform the float division.</p>
 
 <ul>
 	<li>For example, for <code>nums = [2,3,4]</code>, we will evaluate the expression <code>&quot;2/3/4&quot;</code>.</li>

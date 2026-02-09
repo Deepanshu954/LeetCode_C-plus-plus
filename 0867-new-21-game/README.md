@@ -1,4 +1,5 @@
-<h2><a href="https://leetcode.com/problems/new-21-game">867. New 21 Game</a></h2><h3>Medium</h3><hr><p>Alice plays the following game, loosely based on the card game <strong>&quot;21&quot;</strong>.</p>
+<h2><a href="https://leetcode.com/problems/new-21-game">867. New 21 Game</a></h2>
+📌 **Complexity Analysis:** [Complexity.md](./Complexity.md)<h3>Medium</h3><hr><p>Alice plays the following game, loosely based on the card game <strong>&quot;21&quot;</strong>.</p>
 
 <p>Alice starts with <code>0</code> points and draws numbers while she has less than <code>k</code> points. During each draw, she gains an integer number of points randomly from the range <code>[1, maxPts]</code>, where <code>maxPts</code> is an integer. Each draw is independent and the outcomes have equal probabilities.</p>
 

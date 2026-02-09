@@ -1,4 +1,5 @@
-<h2><a href="https://leetcode.com/problems/student-attendance-record-ii">552. Student Attendance Record II</a></h2><h3>Hard</h3><hr><p>An attendance record for a student can be represented as a string where each character signifies whether the student was absent, late, or present on that day. The record only contains the following three characters:</p>
+<h2><a href="https://leetcode.com/problems/student-attendance-record-ii">552. Student Attendance Record II</a></h2>
+📌 **Complexity Analysis:** [Complexity.md](./Complexity.md)<h3>Hard</h3><hr><p>An attendance record for a student can be represented as a string where each character signifies whether the student was absent, late, or present on that day. The record only contains the following three characters:</p>
 
 <ul>
 	<li><code>&#39;A&#39;</code>: Absent.</li>

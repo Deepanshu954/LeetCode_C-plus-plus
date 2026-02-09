@@ -1,4 +1,6 @@
-<h2><a href="https://leetcode.com/problems/check-if-array-is-sorted-and-rotated">1878. Check if Array Is Sorted and Rotated</a></h2><h3>Easy</h3><hr><p>Given an array <code>nums</code>, return <code>true</code><em> if the array was originally sorted in non-decreasing order, then rotated <strong>some</strong> number of positions (including zero)</em>. Otherwise, return <code>false</code>.</p>
+<h2><a href="https://leetcode.com/problems/check-if-array-is-sorted-and-rotated">1878. Check if Array Is Sorted and Rotated</a></h2>
+📌 **Complexity Analysis:** [Complexity.md](./Complexity.md)
+<h3>Easy</h3><hr><p>Given an array <code>nums</code>, return <code>true</code><em> if the array was originally sorted in non-decreasing order, then rotated <strong>some</strong> number of positions (including zero)</em>. Otherwise, return <code>false</code>.</p>
 
 <p>There may be <strong>duplicates</strong> in the original array.</p>
 

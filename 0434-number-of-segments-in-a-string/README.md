@@ -1,4 +1,5 @@
-<h2><a href="https://leetcode.com/problems/number-of-segments-in-a-string">434. Number of Segments in a String</a></h2><h3>Easy</h3><hr><p>Given a string <code>s</code>, return <em>the number of segments in the string</em>.</p>
+<h2><a href="https://leetcode.com/problems/number-of-segments-in-a-string">434. Number of Segments in a String</a></h2>
+📌 **Complexity Analysis:** [Complexity.md](./Complexity.md)<h3>Easy</h3><hr><p>Given a string <code>s</code>, return <em>the number of segments in the string</em>.</p>
 
 <p>A <strong>segment</strong> is defined to be a contiguous sequence of <strong>non-space characters</strong>.</p>
 

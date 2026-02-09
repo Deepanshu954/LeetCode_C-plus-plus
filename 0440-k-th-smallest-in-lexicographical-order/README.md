@@ -1,4 +1,5 @@
-<h2><a href="https://leetcode.com/problems/k-th-smallest-in-lexicographical-order">440. K-th Smallest in Lexicographical Order</a></h2><h3>Hard</h3><hr><p>Given two integers <code>n</code> and <code>k</code>, return <em>the</em> <code>k<sup>th</sup></code> <em>lexicographically smallest integer in the range</em> <code>[1, n]</code>.</p>
+<h2><a href="https://leetcode.com/problems/k-th-smallest-in-lexicographical-order">440. K-th Smallest in Lexicographical Order</a></h2>
+📌 **Complexity Analysis:** [Complexity.md](./Complexity.md)<h3>Hard</h3><hr><p>Given two integers <code>n</code> and <code>k</code>, return <em>the</em> <code>k<sup>th</sup></code> <em>lexicographically smallest integer in the range</em> <code>[1, n]</code>.</p>
 
 <p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>

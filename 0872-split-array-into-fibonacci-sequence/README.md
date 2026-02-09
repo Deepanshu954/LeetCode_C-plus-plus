@@ -1,4 +1,5 @@
-<h2><a href="https://leetcode.com/problems/split-array-into-fibonacci-sequence">872. Split Array into Fibonacci Sequence</a></h2><h3>Medium</h3><hr><p>You are given a string of digits <code>num</code>, such as <code>&quot;123456579&quot;</code>. We can split it into a Fibonacci-like sequence <code>[123, 456, 579]</code>.</p>
+<h2><a href="https://leetcode.com/problems/split-array-into-fibonacci-sequence">872. Split Array into Fibonacci Sequence</a></h2>
+📌 **Complexity Analysis:** [Complexity.md](./Complexity.md)<h3>Medium</h3><hr><p>You are given a string of digits <code>num</code>, such as <code>&quot;123456579&quot;</code>. We can split it into a Fibonacci-like sequence <code>[123, 456, 579]</code>.</p>
 
 <p>Formally, a <strong>Fibonacci-like</strong> sequence is a list <code>f</code> of non-negative integers such that:</p>
 

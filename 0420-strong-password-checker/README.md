@@ -1,4 +1,5 @@
-<h2><a href="https://leetcode.com/problems/strong-password-checker">420. Strong Password Checker</a></h2><h3>Hard</h3><hr><p>A password is considered strong if the below conditions are all met:</p>
+<h2><a href="https://leetcode.com/problems/strong-password-checker">420. Strong Password Checker</a></h2>
+📌 **Complexity Analysis:** [Complexity.md](./Complexity.md)<h3>Hard</h3><hr><p>A password is considered strong if the below conditions are all met:</p>
 
 <ul>
 	<li>It has at least <code>6</code> characters and at most <code>20</code> characters.</li>

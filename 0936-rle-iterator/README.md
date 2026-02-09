@@ -1,4 +1,5 @@
-<h2><a href="https://leetcode.com/problems/rle-iterator">936. RLE Iterator</a></h2><h3>Medium</h3><hr><p>We can use run-length encoding (i.e., <strong>RLE</strong>) to encode a sequence of integers. In a run-length encoded array of even length <code>encoding</code> (<strong>0-indexed</strong>), for all even <code>i</code>, <code>encoding[i]</code> tells us the number of times that the non-negative integer value <code>encoding[i + 1]</code> is repeated in the sequence.</p>
+<h2><a href="https://leetcode.com/problems/rle-iterator">936. RLE Iterator</a></h2>
+📌 **Complexity Analysis:** [Complexity.md](./Complexity.md)<h3>Medium</h3><hr><p>We can use run-length encoding (i.e., <strong>RLE</strong>) to encode a sequence of integers. In a run-length encoded array of even length <code>encoding</code> (<strong>0-indexed</strong>), for all even <code>i</code>, <code>encoding[i]</code> tells us the number of times that the non-negative integer value <code>encoding[i + 1]</code> is repeated in the sequence.</p>
 
 <ul>
 	<li>For example, the sequence <code>arr = [8,8,8,5,5]</code> can be encoded to be <code>encoding = [3,8,2,5]</code>. <code>encoding = [3,8,0,9,2,5]</code> and <code>encoding = [2,8,1,8,2,5]</code> are also valid <strong>RLE</strong> of <code>arr</code>.</li>

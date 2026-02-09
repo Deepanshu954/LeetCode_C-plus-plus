@@ -1,4 +1,5 @@
-<h2><a href="https://leetcode.com/problems/license-key-formatting">482. License Key Formatting</a></h2><h3>Easy</h3><hr><p>You are given a license key represented as a string <code>s</code> that consists of only alphanumeric characters and dashes. The string is separated into <code>n + 1</code> groups by <code>n</code> dashes. You are also given an integer <code>k</code>.</p>
+<h2><a href="https://leetcode.com/problems/license-key-formatting">482. License Key Formatting</a></h2>
+📌 **Complexity Analysis:** [Complexity.md](./Complexity.md)<h3>Easy</h3><hr><p>You are given a license key represented as a string <code>s</code> that consists of only alphanumeric characters and dashes. The string is separated into <code>n + 1</code> groups by <code>n</code> dashes. You are also given an integer <code>k</code>.</p>
 
 <p>We want to reformat the string <code>s</code> such that each group contains exactly <code>k</code> characters, except for the first group, which could be shorter than <code>k</code> but still must contain at least one character. Furthermore, there must be a dash inserted between two groups, and you should convert all lowercase letters to uppercase.</p>
 

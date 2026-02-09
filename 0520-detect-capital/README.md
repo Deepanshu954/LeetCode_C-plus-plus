@@ -1,4 +1,5 @@
-<h2><a href="https://leetcode.com/problems/detect-capital">520. Detect Capital</a></h2><h3>Easy</h3><hr><p>We define the usage of capitals in a word to be right when one of the following cases holds:</p>
+<h2><a href="https://leetcode.com/problems/detect-capital">520. Detect Capital</a></h2>
+📌 **Complexity Analysis:** [Complexity.md](./Complexity.md)<h3>Easy</h3><hr><p>We define the usage of capitals in a word to be right when one of the following cases holds:</p>
 
 <ul>
 	<li>All letters in this word are capitals, like <code>&quot;USA&quot;</code>.</li>

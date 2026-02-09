@@ -1,4 +1,5 @@
-<h2><a href="https://leetcode.com/problems/tag-validator">591. Tag Validator</a></h2><h3>Hard</h3><hr><p>Given a string representing a code snippet, implement a tag validator to parse the code and return whether it is valid.</p>
+<h2><a href="https://leetcode.com/problems/tag-validator">591. Tag Validator</a></h2>
+📌 **Complexity Analysis:** [Complexity.md](./Complexity.md)<h3>Hard</h3><hr><p>Given a string representing a code snippet, implement a tag validator to parse the code and return whether it is valid.</p>
 
 <p>A code snippet is valid if all the following rules hold:</p>
 

@@ -1,4 +1,5 @@
-<h2><a href="https://leetcode.com/problems/count-the-repetitions">466. Count The Repetitions</a></h2><h3>Hard</h3><hr><p>We define <code>str = [s, n]</code> as the string <code>str</code> which consists of the string <code>s</code> concatenated <code>n</code> times.</p>
+<h2><a href="https://leetcode.com/problems/count-the-repetitions">466. Count The Repetitions</a></h2>
+📌 **Complexity Analysis:** [Complexity.md](./Complexity.md)<h3>Hard</h3><hr><p>We define <code>str = [s, n]</code> as the string <code>str</code> which consists of the string <code>s</code> concatenated <code>n</code> times.</p>
 
 <ul>
 	<li>For example, <code>str == [&quot;abc&quot;, 3] ==&quot;abcabcabc&quot;</code>.</li>

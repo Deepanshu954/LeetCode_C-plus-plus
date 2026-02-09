@@ -1,4 +1,5 @@
-<h2><a href="https://leetcode.com/problems/exam-room">885. Exam Room</a></h2><h3>Medium</h3><hr><p>There is an exam room with <code>n</code> seats in a single row labeled from <code>0</code> to <code>n - 1</code>.</p>
+<h2><a href="https://leetcode.com/problems/exam-room">885. Exam Room</a></h2>
+📌 **Complexity Analysis:** [Complexity.md](./Complexity.md)<h3>Medium</h3><hr><p>There is an exam room with <code>n</code> seats in a single row labeled from <code>0</code> to <code>n - 1</code>.</p>
 
 <p>When a student enters the room, they must sit in the seat that maximizes the distance to the closest person. If there are multiple such seats, they sit in the seat with the lowest number. If no one is in the room, then the student sits at seat number <code>0</code>.</p>
 

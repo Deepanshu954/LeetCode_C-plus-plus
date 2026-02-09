@@ -1,4 +1,5 @@
-<h2><a href="https://leetcode.com/problems/magic-squares-in-grid">870. Magic Squares In Grid</a></h2><h3>Medium</h3><hr><p>A <code>3 x 3</code> <strong>magic square</strong> is a <code>3 x 3</code> grid filled with distinct numbers <strong>from </strong>1<strong> to </strong>9 such that each row, column, and both diagonals all have the same sum.</p>
+<h2><a href="https://leetcode.com/problems/magic-squares-in-grid">870. Magic Squares In Grid</a></h2>
+📌 **Complexity Analysis:** [Complexity.md](./Complexity.md)<h3>Medium</h3><hr><p>A <code>3 x 3</code> <strong>magic square</strong> is a <code>3 x 3</code> grid filled with distinct numbers <strong>from </strong>1<strong> to </strong>9 such that each row, column, and both diagonals all have the same sum.</p>
 
 <p>Given a <code>row x col</code> <code>grid</code> of integers, how many <code>3 x 3</code> magic square subgrids are there?</p>
 
